@@ -6,6 +6,9 @@ https://iterm2.com/
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+### Terminal tools
+- [lsd](https://github.com/Peltoche/lsd)
+
 ### Brew
 
 ```bash
